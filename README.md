@@ -1,0 +1,1 @@
+# defttechnolabs-inventory-management
